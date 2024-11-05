@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iyubaetu.github.io/dif/sitemap_index.txt
+Sitemap: https://iyubaetu.github.io/gwe/sitemap_index.txt
+Sitemap: https://iyubaetu.github.io/xAP/sitemap_index.txt
+Sitemap: https://iyubaetu.github.io/xBl/sitemap_index.txt
